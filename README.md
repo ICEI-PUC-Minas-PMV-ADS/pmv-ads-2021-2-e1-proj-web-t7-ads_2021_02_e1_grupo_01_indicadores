@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# GERENCIADOR DE TAREFAS
 
-`CURSO`
+`ADS`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`PRIMEIRO SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A aplicação tem como objetivo aumentar o gerenciamento e melhorar a produtividade dos funcionários das empresas de grande a pequeno porte. Um dos maiores problemas que as empresas sofrem é a falta de gerenciamento dinâmico fazendo com que os colaboradores se percam em meio a tantas tarefas a serem executadas, logo muitas tarefas não são executadas e são transferidas para a próxima interação. O que almejamos é que os seus funcionários possam discernir quais tarefas possuem maior prioridade na execução para a empresa, fazendo com que a produtividade do time aumente e que possa ter o máximo de tarefas cumpridas até o final da interação. Temos como objetivo ajudar a melhora da interação entre colaborador e empresa, fazendo com que ambos os dois tenham um maior rendimento em seus respectivos objetivos de trabalho.
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* Arthur Borges
 * Natalia Kie Miamoto
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Lucas Soares
+* Junior Antunes
+* Pericles Soares
 
 ## Orientador
 
-* Nome completo do professor 1
+* Mateus Curcino
 
 ## Instruções de utilização
 
