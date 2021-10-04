@@ -1,6 +1,8 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O nosso projeto visa organizar os indicadores de backlog em 4 maneiras diferentes: urgente, atrasado, sem prioridade e incompleto. Em uma pontuação de 0 a 100 demonstra-se a produtividade da equipe. Ao trabalhar com indicadores de backlog, a organização desses é fundamental, pois frequentemente não é possível completar o cronograma estipulado para o corrente mês de trabalho, e ao iniciar o mês seguinte será preciso conciliar as atividades acumuladas no mês anterior. 
+
+Com esse projeto pretende-se auxiliar as equipes das empresas clientes na visualização e organização intuitiva de suas prioridades. Como na situação na qual um trabalho que está marcado como urgente não pode ser ignorado, e assim que acabarem os urgentes serão feitos os atrasados que são trabalhos sem prioridade do mês anterior - importante lembrar que é de suma importância que os atrasados sejam feitos antes dos sem prioridade -, os trabalhos que estão marcados como sem prioridade já têm seus problemas estabelecidos e devem ser desenvolvidos por último, e para encerrar, contudo não menos importante temos os incompletos, que são trabalhos que muitas vezes não tem seu problema definido ou então a equipe ainda não consegue executá-los. 
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
