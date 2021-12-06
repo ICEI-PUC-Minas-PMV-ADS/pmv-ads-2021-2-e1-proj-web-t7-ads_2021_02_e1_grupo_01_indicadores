@@ -11,7 +11,16 @@ O diagrama apresentado na figura a seguir mostra o fluxo de interação do usuá
 
 ## Wireframes
 
-!(img/wireframe-example.png)
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura X. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles: 
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+- Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site, suporte e contato; 
+- Conteúdo - apresenta o conteúdo da tela em questão; 
+- Barra lateral - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo. 
  
+<img src="/docs/img/wireframe.png"/>
+
+A tela de acesso mostra possibilita realizar o login ou o cadastro para usuários ou empresas. 
+
+<img src="/docs/img/tela home.png"/>
+
+
