@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tela de Login</title>
+    <link rel="stylesheet" href="cadastro.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato&display=swap"
+      rel="stylesheet"
+    />
+    <meta name="author" content="Juscelino Junior" />
+    <meta name="description" content="Meu primeiro programa :D" />
+  </head>
+  <body>
+    <header>
+        <nav>
+            <h1>LOGO</h1>
+            <ul>
+                <li>
+                    <a href="../telalogin/TelaDeLogin.html">LOGIN</a>
+                </li>
+                <li>
+                    <a href="cadastro.html">
+                        CADASTRO
+                    </a>
+                </li>
+            </ul>
+
+        </nav>
+
+    </header>
+    <main>
+        <form action="">
+            <label for="nomesobrenome">Nome e sobrenome</label>
+            <input type="text" id="nome" class="input-padrao" required>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" class="input-padrao" required placeholder="seuemail@dominio.com">
+
+            <label for="telefone">Telefone</label>
+            <input type="tel" name="" id="telefone" class="input-padrao" required placeholder="(xx) xxxxx-xxxx">
+            <label for="telefone">Senha</label>
+            <input type="password" name="" id="senha" class="input-padrao" required placeholder="******">
+
+            <label class="checkbox"><input type="checkbox" checked>Gostaria de receber nossas novidades por email?</label>
+
+            <input type="submit" onclick="clicou()" name="contato" value="Cadastrar" class="enviar" id="enviar">
+            
+
+        </form>
+    </main>
+    <script>
+        var nome = document.getElementById('nome')
+        var Cadastrar = document.querySelector('input#enviar')
+        function clicou(){
+            alert(`${nome.value} seu cadastro foi realizado com sucesso!`)
+    
+        }
+   
+    </script>
+   
+  </body>
+</html>
