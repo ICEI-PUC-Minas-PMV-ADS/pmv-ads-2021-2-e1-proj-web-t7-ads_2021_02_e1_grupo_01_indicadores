@@ -23,10 +23,13 @@ A tela de acesso mostra possibilita realizar o login ou o cadastro para usuário
 
 <img src="/docs/img/tela home.png"/>
 
+A tela de cadastro possibilita o cadastro de pessoa física ou jurídica. 
+
+<img src="/docs/img/tela cadastro.png"/>
+
 Caso o usuário já seja cadastrado no site, ou pela empresa ou individualmente, acessará a página de login.  
 
 <img src="/docs/img/tela login.png"/>
-
 
 Com base na estrutura padrão, o bloco de Conteúdo traz uma das seções escolhidas: a fazer, em progresso, revisão, feito, equipe e produtividade. O bloco da Barra Lateral traz o calendário e mensagens que poderão ser enviadas e recebidas.  
 
