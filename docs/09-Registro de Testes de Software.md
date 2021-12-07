@@ -1,12 +1,23 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+- Tela Cadastro 
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+Ao inserir um caractere sem e-mail a seguinte mensagem é exibida:   
 
-## Avaliação
+<img src="/docs/img/erro cadastro.png"/>
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+Mensagem para digitar um email válido 
 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+- Tela Login
+
+Quando errar a senha ou admin a seguinte tela é exibida:  
+
+<img src="/docs/img/erro login.png"/>
+
+Mensagem de erro 
+
+- Tela Progresso 
+
+Quando é utilizado o índice de 50%, o projeto 1 aumenta a barra de progresso 
+
+<img src="/docs/img/teste em progresso.png"/>
